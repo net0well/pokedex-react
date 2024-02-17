@@ -6,17 +6,6 @@
 
 <p align="center">
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Alquipo/React-PokeDex">
-
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/Alquipo/React-PokeDex">
-
-<a href="https://www.linkedin.com/in/alquiponeto/">
-    <img alt="Made by Alquipo" src="https://img.shields.io/badge/made%20by-AlquipoNeto-blue">
-</a>
-
-<a href="https://github.com/Alquipo/React-PokeDex/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Alquipo/React-PokeDex?color=blue">
-</a>
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
 
