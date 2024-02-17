@@ -9,10 +9,6 @@
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
 
-<a href="https://app.netlify.com/sites/alquipo-pokedex/deploys">
-    <img alt="Netlify" src="https://api.netlify.com/api/v1/badges/534d0639-5a3a-43ae-b699-f3e7fc31113e/deploy-status">
-</a>
-
 </p>
 
 <p align="center">
